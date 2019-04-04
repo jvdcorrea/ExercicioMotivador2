@@ -1,5 +1,3 @@
-package com.bcopstein.FuncoesST;
-
 import java.util.List;
 
 public class Util {
